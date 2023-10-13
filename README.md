@@ -1,1 +1,3 @@
-# Diabetes_detection
+# Diabetes_Prediction
+
+Working Link:- https://mritunjay-mainpy-xkruacck8g3ijqsgy2y4rn.streamlit.app
